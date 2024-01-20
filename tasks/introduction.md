@@ -6,6 +6,10 @@
 
 ---
 
+## Important Note on Project Deadline
+
+Please be aware that the deadline for this project is set for the **16th of Bahman**. Due to the time constraints associated with grading and releasing the final grades, this deadline will not be subject to change. We appreciate your understanding and cooperation in adhering to this timeline.
+
 ### Project Introduction
 
 In this project, you'll delve into the fascinating realm of bird genetics and their evolutionary paths. It's an opportunity to use bioinformatics methods to tackle actual biological puzzles, with a particular emphasis on uncovering genetic secrets and the evolutionary links among various bird species. To get started, you can find all the project materials in the GitHub repository [here](https://github.com/IntroductiontoBioinformaticsFall2023/intro-to-bio-sut-final-project).
@@ -19,10 +23,6 @@ Refer to the README of the github repository.
 
 Throughout these tasks, you are encouraged to employ a variety of bioinformatics tools and approaches. The aim is to foster creativity, problem-solving skills, and the practical application of theoretical knowledge.
 
-### GitHub Workflow and Review Process
-
-Manage each task via GitHub for collaborative development and iterative learning. Early completion of tasks will be met with detailed feedback, providing opportunities for further improvement and learning.
-
 ## Grading and Bonus Structure
 
 ### Overview
@@ -35,7 +35,7 @@ The grading system for this project is designed to recognize and reward in-depth
 
 ### Multiplicative Bonus Factors
 
-- **Clean Coding**: We strongly encourage clean, modular code with reusable components. Exceptionally well-written code will multiply the task's grade by 1.1, and truly outstanding code by 1.2.
+- **Clean Coding**: We strongly encourage clean, modular code with reusable components. Well-written and well-documented code will multiply the task's grade by 1.1.
 - **Git Best Practices**: Effective use of Git, including good commit practices and clear commit messages, will yield a multiplicative factor of 1.1 on the task's grade.
 
 ### Soft-Cap Bonus
@@ -55,10 +55,14 @@ The grading system for this project is designed to recognize and reward in-depth
 
 ### In-Person Delivery and Individual Assessment
 
-- **Individual Effort Assessment**: The in-person delivery will be the primary venue for assessing individual contributions. This assessment will be graded as Acceptable, Barely Acceptable, or Unacceptable, with multipliers of 1.0, 0.75, and 0.5, respectively.
-- **Purpose of Penalty Multipliers**: These multipliers are designed to address situations where an individual team member contributes minimally. It's important to note that these penalties apply to what the team has achieved; if a team's overall performance is not strong, members will not be subject to these penalties.
+As part of the completion requirements, you will be required to deliver your final project. The specifics of the delivery method, whether online or in-person, will be communicated to you at a later date.
 
-### Resources and Learning Materials
+## Deliverables
 
-We provide a comprehensive list of resources, including tutorials and documentation for tools like Galaxy, BLAST, and others relevant to the tasks. These resources are designed to support and enrich your learning experience.
+Your GitHub repository will serve as the primary delivery mechanism for your project. It should contain all the necessary files and documents related to your project tasks. In the event that your project includes large files, please upload these to an appropriate hosting service and provide a direct link to them in your repository.
 
+For tasks that involve a notebook, the notebook itself will serve as both the code and the report. For other tasks, you will need to write a separate report. In addition, for all tasks, there may be a need to write an additional report. This could be the case if you have undertaken any extra bonus activities within a task, or if you have used additional tools or websites.
+
+Any extra work, such as bonus activities, should be highlighted in your report. Similarly, if you have used additional tools or websites in any of your tasks, you should specify the tools you have used and the steps you took in your report.
+
+Remember, the goal is not just to complete the tasks but also to document your process, your learnings, and your achievements. Good luck!
