@@ -8,18 +8,11 @@
 
 ### Project Introduction
 
-In this project, you will explore the world of avian genetics and evolution. This initiative provides a platform to apply bioinformatics techniques to real-world biological questions, focusing on genomic mysteries and evolutionary relationships in bird species.
+In this project, you will explore the world of avian genetics and evolution. This initiative provides a platform to apply bioinformatics techniques to real-world biological questions, focusing on genomic mysteries and evolutionary relationships in bird species. You can access to the project's github repository [by this link](https://github.com/jrazi/ItB-final-project-winter-2023).
 
 ### Project Tasks
 
-1. **The Genomic Detective - Exploring Avian DNA with Galaxy**:
-   - Delve into the DNA of various avian species using the Galaxy platform. Your task is to assemble a genome from short-read sequences and conduct BLAST searches to uncover insights into a specific DNA sequence. This journey through genome assembly and comparative genomics offers a deep dive into the mysteries of avian DNA.
-
-2. **Comparative Mitochondrial Genome Analysis**:
-   - Analyze mitochondrial DNA to unravel the evolutionary relationships among different bird species. This task involves mitochondrial genome alignment, phylogenetic analysis, and ecological and anthropological exploration.
-
-3. **Neural and Immunological Responses in Zebra Finches**:
-   - Investigate the influence of social environments on sickness responses in Zebra Finches, focusing on how these factors affect gene expression, neurobiology, and social behavior. This task provides an opportunity to explore the interplay between environment and genetic expression in birds.
+Refer to the README of the github repository.
 
 ### Methodology and Freedom of Exploration
 
