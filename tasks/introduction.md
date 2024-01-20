@@ -32,6 +32,21 @@ The grading system for this project is designed to recognize and reward thorough
 
 - Your project starts with a base score of 4 points.
 
+### Task Weights
+
+The tasks for this project have been assigned the following weights:
+
+- **Find The Imposter - Deciphering Mysterious Sequences**: 1.0
+- **Comparative Analysis of Mitochondrial Genomes**: 1.0
+- **Neural and Immunological Responses of Zebra Finches**: 1.5
+- **A Single-Cell Perspective on Gene Expression**: 0.5
+
+To achieve the full mark for a task, it is sufficient to complete the notebooks as specified in each task.
+
+**Important Note on Grading for "A Single-Cell Perspective on Gene Expression"**:
+
+Please note that the task "A Single-Cell Perspective on Gene Expression" has a cut-off of 50 marks. This means if you score less than 50, your score for this task will be 0. This policy is in place to ensure that the submissions reflect a genuine effort and are not merely reproductions of the ChatGPT response generated from the task description. To be eligible for grading for this task, it is necessary to enhance your prompt engineering skills and contribute a significant portion of the work yourself.
+
 ### Multiplicative Bonus Factors
 
 - **Clean Coding**: We strongly encourage clean, modular code with reusable components. Well-written and well-documented code will result in a 1.1x multiplier being applied to the task's grade.
