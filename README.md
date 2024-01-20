@@ -2,7 +2,7 @@
 
 #### Project Overview
 
-This repository is a curated collection of bioinformatics tasks, each offering a distinct perspective on genomic and transcriptomic analysis. Our projects range from the study of neurobiological responses in Zebra Finches to the exploration of high-altitude adaptations in birds and phylogenetic analysis using mitochondrial genomes. These tasks provide an immersive experience in the application of bioinformatics tools and methodologies to answer real-world biological questions.
+This repository is a curated collection of bioinformatics tasks, each offering a distinct perspective on genomic and transcriptomic analysis. Our projects range from the study of neurobiological responses in Zebra Finches, to analyzing the footprint of an acnient microbe in birds and phylogenetic analysis using mitochondrial genomes. These tasks provide an immersive experience in the application of bioinformatics tools and methodologies to answer real-world biological questions.
 
 #### Tasks Overview
 
@@ -18,7 +18,7 @@ This repository is a curated collection of bioinformatics tasks, each offering a
    - Focus: Understand evolutionary relationships between species by analyzing mitochondrial DNA.
    - Key Components: Mitochondrial genome alignment, phylogenetic analysis, and exploration of ecological and anthropological insights.
 
-4. **Lame Task: A Single-Cell Perspective on Gene Expression**:
+4. **A Single-Cell Perspective on Gene Expression**:
    - Focus: Design a project to show the limitations of RNA-Seq and the effectiveness of single-cell analysis in gene expression studies.
    - Key Components: RNA-Seq data analysis, single-cell sequencing techniques, data interpretation, and creative project design.
 
