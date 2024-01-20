@@ -6,17 +6,17 @@ This repository is a curated collection of bioinformatics tasks, each offering a
 
 #### Tasks Overview
 
-1. **Neural and Immunological Responses of Zebra Finches**:
-   - Focus: Investigate the influence of social environment on neural responses to sickness in Zebra Finches.
-   - Key Components: Data preprocessing, differential gene expression analysis, functional annotation, visualization, and interpretation in the context of neurobiology, immunology, and social behavior.
-
-2. **Find The Imposter - Deciphering Mysterious Sequences**:
+1. **Find The Imposter - Deciphering Mysterious Sequences**:
    - Focus: Assembly of a collection of short reads, BLASTing it and finding interesting results.
    - Key Components: De Novo Assembly, Galaxy Project, BLAST.
 
-3. **Comparative Analysis of Mitochondrial Genomes**:
+2. **Comparative Analysis of Mitochondrial Genomes**:
    - Focus: Understand evolutionary relationships between species by analyzing mitochondrial DNA.
    - Key Components: Mitochondrial genome alignment, phylogenetic analysis, and exploration of ecological and anthropological insights.
+
+3. **Neural and Immunological Responses of Zebra Finches**:
+   - Focus: Investigate the influence of social environment on neural responses to sickness in Zebra Finches.
+   - Key Components: Data preprocessing, differential gene expression analysis, functional annotation, visualization, and interpretation in the context of neurobiology, immunology, and social behavior.
 
 4. **A Single-Cell Perspective on Gene Expression**:
    - Focus: Design a project to show the limitations of RNA-Seq and the effectiveness of single-cell analysis in gene expression studies.
