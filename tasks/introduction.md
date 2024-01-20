@@ -8,7 +8,8 @@
 
 ### Project Introduction
 
-In this project, you'll delve into the fascinating realm of bird genetics and their evolutionary paths. It's an opportunity to use bioinformatics methods to tackle actual biological puzzles, with a particular emphasis on uncovering genetic secrets and the evolutionary links among various bird species. To get started, you can find all the project materials in the GitHub repository [here](https://github.com/jrazi/ItB-final-project-winter-2023).
+In this project, you'll delve into the fascinating realm of bird genetics and their evolutionary paths. It's an opportunity to use bioinformatics methods to tackle actual biological puzzles, with a particular emphasis on uncovering genetic secrets and the evolutionary links among various bird species. To get started, you can find all the project materials in the GitHub repository [here](https://github.com/IntroductiontoBioinformaticsFall2023/intro-to-bio-sut-final-project).
+
 
 ### Project Tasks
 
