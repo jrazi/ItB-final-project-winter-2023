@@ -54,7 +54,7 @@ Please note that the task "A Single-Cell Perspective on Gene Expression" has a c
 
 ### Soft-Cap Bonus
 
-- You can earn an additional 1.5 points by completing bonus activities associated with each task or by meeting other bonus criteria. This can increase your total to a maximum of 6 points.
+- You can earn an additional 1.5 points by completing bonus activities associated with each task or by meeting other bonus criteria. This can increase your total to a maximum of 5.5 points.
 
 ### Extended Bonus Opportunity
 
