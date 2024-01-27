@@ -3,7 +3,7 @@ taxo_id,specie,blast_name,genbank_common_name,accession_number,mtDNA
 7460,Apis mellifera,Bees,honey bee,NC_051932,https://www.ncbi.nlm.nih.gov/nucleotide/NC_051932.1
 36300,Pelecanus crispus,birds,Dalmatian pelican,OR620163,https://www.ncbi.nlm.nih.gov/nuccore/OR620163.1
 10116,Rattus norvegicus,Rodents,Norway rat,NC_001665,https://www.ncbi.nlm.nih.gov/nuccore/NC_001665
-9031,Gallus gallus,birds,Gallus gallus,NC_006088,https://www.ncbi.nlm.nih.gov/nuccore/NC_053523.1
+9031,Gallus gallus,birds,Gallus gallus,NC_053523,https://www.ncbi.nlm.nih.gov/nuccore/NC_053523.1
 59463,Myotis lucifugus,bats,little brown bat,NC_029849,https://www.ncbi.nlm.nih.gov/nuccore/NC_029849.1
 7070,Tribolium castaneum,Insects,Tribolium castaneum,NC_003081,https://www.ncbi.nlm.nih.gov/nuccore/NC_003081
 8845,Anser cygnoides,birds,Swan goose,NC_023832,https://www.ncbi.nlm.nih.gov/nucleotide/NC_023832.1
